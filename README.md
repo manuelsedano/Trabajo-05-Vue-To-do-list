@@ -2,10 +2,6 @@
 Crear una página web de listas de pendientes y gestiòn de tareas.
 
 Recommended IDE Setup
-
-VSCode + Volar (and disable Vetur) + TypeScript Vue Plugin (Volar).
-Customize configuration
-
 See Vite Configuration Reference.
 Project Setup
 
